@@ -21,7 +21,11 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="ts logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="py logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="ts logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="nodejs logo"  />
   <img width="12" />
