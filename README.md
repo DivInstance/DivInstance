@@ -1,22 +1,28 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <!-- Left: Image (1 part) -->
+  <!-- Left side: Image -->
   <div style="flex: 1;">
-    <img src="ascii-art (4).png" alt="Your image" style="max-width: 2%;">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/div.png" alt="Div's Avatar" style="max-width: 100%; border-radius: 8px;">
   </div>
 
-  <!-- Right: Text (3 parts) -->
-  <div style="flex: 3;">
-    <h2>About Me</h2>
-    <p>
-      Hello! I'm Andrew, a software engineer with over 22 years of hands-on experience.
-      I love programming in Java, Python, and C++, and I've dabbled in everything from Minecraft modding to iOS jailbreaking.
-    </p>
-    <ul>
-      <li><strong>Languages:</strong> Java, Python, C++, JavaScript</li>
-      <li><strong>Tools:</strong> VSCode, IntelliJ IDEA</li>
-      <li><strong>Hobbies:</strong> Overclocking, Jailbreaking, Modding</li>
-    </ul>
-  </div>
+  <!-- Right side: Stats and Contact Info -->
+  <div style="flex: 3; font-family: monospace;">
 
+    <pre>
+stats@Div --———————————————————————————————————————————————— - —----——
+. OS: .................................. Windows 10, Linux, Android 14
+. Uptime: ............................. (count time from 11th Nov 2003)
+
+. Languages.Programming: ................ C++, Java, Python, JavaScript
+. Languages.Speaking: .......................... English, Hindi, German
+
+. Hobbies.Software: .......... Cybersec Jailbreaking, Valorant Grinding
+. Hobbies.Hardware: ........ Photography, Cooking, Basketball, Trekking
+
+- Contact --—————————————————————————————————————————————————— - — --——
+. Email.Personal: .......................... divyaranjan20175@gmail.com
+. LinkedIn: ......................................... divyaranjan~sahoo
+    </pre>
+
+  </div>
 </div>
