@@ -19,19 +19,11 @@
 ## 💻 Languages and Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="py logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="ts logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="py logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="aws logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
   <img width="12" />
