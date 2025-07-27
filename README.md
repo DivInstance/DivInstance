@@ -1,34 +1,74 @@
 <h1 align="center">Hi there👋, I'm Divyaranjan Sahoo</h1>
-<h3 align="center">A cybersecurity aficionado passionate about technology, hackathons, CTFs, IoT projects, and ethical hacking.</h3>
 
+## 👨 About Me
+
+<h5 align="center">A cybersecurity aficionado passionate about technology, hackathons, CTFs, IoT projects, and ethical hacking.</h5>
+<h5>
+  
 - 🔭 I’m currently working on [DevOps Metrics Reporter](https://github.com/DivInstance/DevOps-Metrics-Reporter)
-
-- 🌱 I’m currently learning **Frameworks, course**
-
-- 👯 I’m looking to collaborate on [PROJECT NAME](https://github.com/DivInstance/DevOps-Metrics-Reporter)
-
-- 🤝 I’m looking for help with [PROJECT NAME](https://github.com/DivInstance/DevOps-Metrics-Reporter)
-
+  
+- 🌱 I’m currently learning Jenkins
+  
 - 👨‍💻 All of my projects are available at [https://divyaranjansahoo.vercel.app/](https://divyaranjansahoo.vercel.app/)
 
-- 💬 Ask me about **react, vue**
+- 📫 Reach me **divyaranjan20175@gmail.com**
 
-- 📫 How to reach me **divyaranjan20175@gmail.com**
+- ⚡ Fun fact **My Mum says she doesn't get my tech jokes**
+</h5>
 
-- ⚡ Fun fact **People say I make funny tech jokes**
+## 💻 Languages and Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="py logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="ts logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+</div>
+
+## 📲 Connect with me
+<p align="center">
 <a href="https://linkedin.com/in/divyaranjan~sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyaranjan~sahoo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/31154691/divyaranjan-sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/31154691/divyaranjan-sahoo" height="30" width="40" /></a>
 <a href="https://instagram.com/diev.vied" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diev.vied" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divinstance&show_icons=true&locale=en&layout=compact" alt="divinstance" /></p>
+## 🏆 GitHub Trophies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divinstance&show_icons=true&locale=en" alt="divinstance" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DivInstance&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DivInstance&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=DivInstance&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divinstance&" alt="divinstance" /></p>
+## 📈 GitHub Streak
+<div align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divinstance&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="divinstance"  />
+</div>
