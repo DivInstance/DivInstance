@@ -2,7 +2,7 @@
 
   <!-- Left: Image (1 part) -->
   <div style="flex: 1;">
-    <img src="https://via.placeholder.com/150" alt="Your image" style="max-width: 100%;">
+    <img src="ascii-art (4).png" alt="Your image" style="max-width: 100%;">
   </div>
 
   <!-- Right: Text (3 parts) -->
