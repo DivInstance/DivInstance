@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Frameworks, course**
 
-- 👯 I’m looking to collaborate on [PROJECT NAME](https://github.com/DivInstance/DevOps-Metrics-Reporter)
-
-- 🤝 I’m looking for help with [PROJECT NAME](https://github.com/DivInstance/DevOps-Metrics-Reporter)
-
 - 👨‍💻 All of my projects are available at [https://divyaranjansahoo.vercel.app/](https://divyaranjansahoo.vercel.app/)
 
 - 💬 Ask me about **react, vue**
