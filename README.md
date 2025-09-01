@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working on [DevOps Metrics Reporter](https://github.com/DivInstance/DevOps-Metrics-Reporter)
   
-- 🌱 I’m currently learning Jenkins
+- 🌱 I’m currently learning Github CI/CD
   
 - 👨‍💻 All of my projects are available at [https://divyaranjansahoo.vercel.app/](https://divyaranjansahoo.vercel.app/)
 
