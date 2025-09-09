@@ -64,5 +64,6 @@
 
 ## 📈 GitHub Streak
 <div align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divinstance&theme=gotham&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="divinstance"  />
+  <img src="https://streak-stats.demolab.com/?user=divinstance&theme=gotham&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="divinstance" />
 </div>
+
