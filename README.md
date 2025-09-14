@@ -65,7 +65,7 @@
   <img src="https://streak-stats.demolab.com/?user=divinstance&theme=gotham&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="divinstance" />
 </div>
 
-## 0x02 > Support my Work
+## ❤️ Support my Work
  [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)](https://buymeacoffee.com/divyaranjansahoo)
 <details>
 
