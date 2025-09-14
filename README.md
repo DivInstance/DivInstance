@@ -8,8 +8,6 @@
 - 🔭 I’m currently working on [DevOps Metrics Reporter](https://github.com/DivInstance/DevOps-Metrics-Reporter)
   
 - 🌱 I’m currently learning Github CI/CD
-  
-- 👨‍💻 All of my projects are available at [https://divyaranjansahoo.vercel.app/](https://divyaranjansahoo.vercel.app/)
 
 - 📫 Reach me **divyaranjan200175@gmail.com**
 
@@ -21,7 +19,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="ts logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="py logo"  />
   <img width="12" />
@@ -66,4 +64,18 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=divinstance&theme=gotham&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="divinstance" />
 </div>
+
+## 0x02 > Support my Work
+ [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)](https://buymeacoffee.com/divyaranjansahoo)
+<details>
+
+  <summary>↕️ <bold>Cryptocurrency List</bold></summary>
+ 
+ <br />
+
+| Currency          | Wallet Address                                                                                               |
+|-------------------|--------------------------------------------------------------------------------------------------------------|
+| Ethereum (ETH)    | 0xf8dE1646d1EBe0afF0a0B096F82Bc4162C26425c                                                                   |
+
+</details>
 
