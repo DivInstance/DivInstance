@@ -11,7 +11,7 @@
   
 - 👨‍💻 All of my projects are available at [https://divyaranjansahoo.vercel.app/](https://divyaranjansahoo.vercel.app/)
 
-- 📫 Reach me **divyaranjan20175@gmail.com**
+- 📫 Reach me **divyaranjan200175@gmail.com**
 
 - ⚡ Fun fact - **My Mum says she doesn't get my tech jokes, but cats do 😏**
 </h5>
