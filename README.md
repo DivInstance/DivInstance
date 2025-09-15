@@ -19,6 +19,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="py logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberrypi logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
