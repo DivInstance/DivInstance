@@ -17,19 +17,9 @@
 ## 💻 Languages and Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="py logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="ts logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
   <img width="12" />
@@ -37,9 +27,31 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="postgres logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="ts logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
   <img width="12" />
 </div>
 
